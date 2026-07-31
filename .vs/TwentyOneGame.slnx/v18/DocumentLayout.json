@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ingri\\Desktop\\College\\C#\\MiniProject2\\TwentyOneGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03584EBF-D64B-49C2-A36F-22CE64DED7EA}|TwentyOneGame.csproj|c:\\users\\ingri\\desktop\\college\\c#\\miniproject2\\twentyonegame\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03584EBF-D64B-49C2-A36F-22CE64DED7EA}|TwentyOneGame.csproj|solutionrelative:twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03584EBF-D64B-49C2-A36F-22CE64DED7EA}|TwentyOneGame.csproj|c:\\users\\ingri\\desktop\\college\\c#\\miniproject2\\twentyonegame\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03584EBF-D64B-49C2-A36F-22CE64DED7EA}|TwentyOneGame.csproj|solutionrelative:twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TwentyOneGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ingri\\Desktop\\College\\C#\\MiniProject2\\TwentyOneGame\\TwentyOneGame.cs",
+              "RelativeDocumentMoniker": "TwentyOneGame.cs",
+              "ToolTip": "C:\\Users\\ingri\\Desktop\\College\\C#\\MiniProject2\\TwentyOneGame\\TwentyOneGame.cs [Design]",
+              "RelativeToolTip": "TwentyOneGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:18:30.443Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TwentyOneGame.cs",
+              "DocumentMoniker": "C:\\Users\\ingri\\Desktop\\College\\C#\\MiniProject2\\TwentyOneGame\\TwentyOneGame.cs",
+              "RelativeDocumentMoniker": "TwentyOneGame.cs",
+              "ToolTip": "C:\\Users\\ingri\\Desktop\\College\\C#\\MiniProject2\\TwentyOneGame\\TwentyOneGame.cs",
+              "RelativeToolTip": "TwentyOneGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:21:24.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
